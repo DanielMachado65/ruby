@@ -1,2 +1,4 @@
-# ruby
-Todo material que eu pesquisei sobre o ruby
+# Ruby
+
+> Aprenderemos nesse git, como funciona ruby entre outras coisas
+
